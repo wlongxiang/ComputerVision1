@@ -1,2 +1,4 @@
-**/ComputerVision1/references/cv_tianchang.zip
-**/ComputerVision1/references/cv_tianchang/
+.DS_Store
+.idea/
+references/cv_tianchang.zip
+references/cv_tianchang/
