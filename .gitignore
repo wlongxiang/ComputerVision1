@@ -1,4 +1,6 @@
 .DS_Store
-.idea/
-references/cv_tianchang.zip
-references/cv_tianchang/
+**/.idea
+/references/cv_tianchang.zip
+/references/cv_tianchang/
+/assignments/lab/CV1-labs/
+assignments/lab/comp_vis_assigns/
